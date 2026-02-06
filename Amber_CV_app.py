@@ -203,9 +203,9 @@ elif menu == "Work experience":
             <li>Vertigo Gear store: casual staff member in outdoor equipment sales (2023)</li>
             <li>GIC Scientific: ad-hoc work to calculate costing of products sold by GIC Scientific using MS Excel (2025-2026)</li>
         </ul>
-        
-        <img src="nels_cave_morning.jpeg" 
-             style="width:100%; max-width:800px; height:auto; display:block; margin:10px 0;">
+      <img src="https://raw.githubusercontent.com/Ambergmdd/repo01/main/nels_cave_morning.jpeg" 
+     style="width:100%; max-width:500px; height:auto; border: 0.5px solid black; display:block; margin:10px auto;">
+
      
         """,
         unsafe_allow_html=True
