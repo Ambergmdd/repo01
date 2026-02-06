@@ -214,7 +214,6 @@ elif menu == "Work experience":
         
 elif menu == "Skills":
     st.title("Skills")
-    st.sidebar.header("Upload and Filter")
 
     st.markdown('''
     <ul style="font-size:18px;">
