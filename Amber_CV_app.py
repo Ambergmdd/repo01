@@ -38,7 +38,7 @@ if menu == "Overview":
             <div style="
                 position: absolute; 
                 top: 30%; 
-                left: 65%; 
+                left: 60%; 
                 transform: translate(-50%, -50%);
                 width: 700px;
                 text-align: right;
