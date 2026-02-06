@@ -32,7 +32,7 @@ if menu == "Overview":
     st.markdown(
         """
         <div style="position: relative; text-align: right; color: black;">
-            <img src="https://raw.githubusercontent.com/Ambergmdd/repo01/main/Swartberg_pic.jpg"
+            <img src="https://raw.githubusercontent.com/Ambergmdd/repo01/main/IMG_2946-EDIT.jpg"
                  style="width: 100%; 
                  height: auto;">
             <div style="
